@@ -1,7 +1,7 @@
 <h1>C-Language</h1>
 <p>Welcome to the C Language Code Repository!\nThis repository contains the C programs I wrote during my 2nd semester.</p>
 <p><b>Contents of this repository</b></p>
-<br>
+<hr>
 <ul>
   <li><a href="https://github.com/anjanakri/C-Language/blob/main/AreaOfSqaure.c">Calculates Area of a square</a></li>
   <li><a href="https://github.com/anjanakri/C-Language/blob/main/AreaofCircle.c">Calculates Area of a Circle</a></li>
