@@ -1,5 +1,5 @@
-<h1>C-Language</h1>
-<p>Welcome to the C Language Code Repository!\nThis repository contains the C programs I wrote during my 2nd semester.</p>
+<h1>🎯C-Language</h1>
+<p>🫧Welcome to the C Language Code Repository!\nThis repository contains the C programs I wrote during my 2nd semester.</p>
 <p><b>Contents of this repository</b></p>
 <hr>
 <ul>
